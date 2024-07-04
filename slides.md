@@ -1,3 +1,7 @@
+---
+theme: dracula
+---
+
 # Avoid Cyber Scams
 
 Simple ways to protect yourself from common cyber scams.
