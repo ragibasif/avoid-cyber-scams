@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Avoid Cyber Scams
 
 To start the slide show:
 
@@ -11,4 +11,3 @@ Edit the [slides.md](./slides.md) to see the changes.
 Learn more about Slidev on [documentations](https://sli.dev/).
 
 
-[background img](https://unsplash.com/photos/a-pole-with-a-bunch-of-stickers-on-it-gpjvRZyavZc?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)# avoid-cyber-scams
