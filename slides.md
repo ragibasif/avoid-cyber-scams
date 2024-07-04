@@ -1,21 +1,28 @@
 ---
 theme: dracula
+layout: cover
+background: 'https://images.unsplash.com/photo-1506220926022-cc5c12acdb35?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 ---
 
 # Avoid Cyber Scams
 
 Simple ways to protect yourself from common cyber scams.
 
-Ragib Asif  
 LinkedIn [@ragibasif](https://www.linkedin.com/in/ragibasif/)  
 GitHub [@ragibasif](https://github.com/ragibasif)  
 
+&copy; 2024 Ragib Asif. All rights reserved.
+
+---
+layout: center
 ---
 
 ## Disclaimer
 
 Not a comprehensive set of methods. This is meant to be a very basic and easy to understand introduction to some very simple ways anyone can use to protect themselves today.
 
+---
+layout: center
 ---
 
 ## Table of Contents
@@ -28,14 +35,15 @@ Not a comprehensive set of methods. This is meant to be a very basic and easy to
 
 
 ---
+layout: center
+---
 
 ## Introduction
 
 Welcome! I am Ragib and this slideshow will introduce you all to some very basic, yet fundamental methods to protect yourself and your sensitive information from online scammers. These methods will apply to everyone and can be implemented right away.
 
-Online scams have gotten very sophisticated these days, especially due to evolving technologies such as AI. In the modern digital age, where everything from banking to 
-
-
+---
+layout: center
 ---
 
 ## Email Security
@@ -51,6 +59,8 @@ Online scams have gotten very sophisticated these days, especially due to evolvi
     - Poor grammar, urgency, or threats in the email content
 
 ---
+layout: center
+---
 
 ## Malicious Links
 
@@ -63,6 +73,8 @@ Online scams have gotten very sophisticated these days, especially due to evolvi
 7. Enable Browser Security: Use security features offered by your browser.
 8. Avoid Unsolicited Links: Be cautious of unsolicited messages containing links.
 
+---
+layout: center
 ---
 
 ## Secure Personal Information
@@ -78,6 +90,8 @@ Online scams have gotten very sophisticated these days, especially due to evolvi
 9. Secure Document Disposal: Shred documents containing personal information before discarding them.
 10. Data Wiping: Erase personal data from devices before selling or discarding them.
 
+---
+layout: center
 ---
 
 ## Learn More
