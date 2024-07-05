@@ -18,8 +18,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
 - [Support](#support)
 - [Project assistance](#project-assistance)
 - [Contributing](#contributing)
@@ -34,14 +32,11 @@
 
 ## About
 
-Built for [CSPSC](https://cspsc-hacks.devpost.com/)
-
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+This presentation was built for [CSPSC](https://cspsc-hacks.devpost.com/) hackathon.
+It aims to give senior citizens, or anyone unfamiliar with protecting themselves
+against cyber scams, a very rudimentary introduction. It is not meant to b a
+comprehensive list of methods. It is meant to be a easy to understand and easy
+to follow general guide.
 
 <a href="https://youtu.be/ETqMe8PKmag" target="_blank">Demo on YouTube</a>
 
@@ -49,59 +44,46 @@ Built for [CSPSC](https://cspsc-hacks.devpost.com/)
 <summary>Screenshots</summary>
 <br>
 
-> **[?]**
-> Please provide your screenshots here.
-
-|                               Home Page                               |                               Login Page                               |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
+|                                     Cover Page                                      |
+| :---------------------------------------------------------------------------------: |
+| <img src="docs/images/avoid-cyber-scams-cover.png" title="Cover Page" width="100%"> |
 
 </details>
 
 ### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
+- Slidev
+- Markdown
 
 ## Getting Started
 
 ### Prerequisites
 
-> **[?]**
-> What are the project requirements/dependencies?
+- git
+- npm
 
 ### Installation
 
-> **[?]**
-> Describe how to install and get started with the project.
+1. Clone the repository:
 
-To start the slide show:
+```bash
+git clone https://github.com/ragibasif/avoid-cyber-scams.git
+cd avoid-cyber-scams
+```
+
+2. To start the slide show:
 
 - `npm install`
 - `npm run dev`
 - visit http://localhost:3030
 
+3. Make changes:
+
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev on [documentations](https://sli.dev/).
-## Usage
-
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
-
-## Roadmap
-
-See the [open issues](https://github.com/ragibasif/avoid-cyber-scams/issues) for a list of proposed features (and known issues).
-
-- [Top Feature Requests](https://github.com/ragibasif/avoid-cyber-scams/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/ragibasif/avoid-cyber-scams/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/ragibasif/avoid-cyber-scams/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Support
-
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
 
 Reach out to the maintainer at one of the following places:
 
@@ -121,7 +103,6 @@ Together, we can make avoid-cyber-scams **better**!
 ## Contributing
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
 
 Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
 
