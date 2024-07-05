@@ -32,11 +32,11 @@
 
 ## About
 
-This presentation was built for [CSPSC](https://cspsc-hacks.devpost.com/) hackathon.
-It aims to give senior citizens, or anyone unfamiliar with protecting themselves
-against cyber scams, a very rudimentary introduction. It is not meant to b a
-comprehensive list of methods. It is meant to be a easy to understand and easy
-to follow general guide.
+This presentation was built for [CSPSC](https://cspsc-hacks.devpost.com/)
+hackathon. It aims to give senior citizens, or anyone unfamiliar with protecting
+themselves against cyber scams, a rudimentary introduction. It is not meant to
+be a comprehensive list of methods. It is intended to be an easy-to-understand
+and easy-to-follow general guide.
 
 <a href="https://youtu.be/ETqMe8PKmag" target="_blank">Demo on YouTube</a>
 
