@@ -41,10 +41,7 @@
 > Why did you undertake it?
 > You don't have to answer all the questions -- just the ones relevant to your project.
 
-<video controls>
-  <source src="./demo/screen-avoid-cyber-scams-0704-2017.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+[Demo on YouTube](https://youtu.be/ETqMe8PKmag)
 
 <details>
 <summary>Screenshots</summary>
@@ -147,6 +144,7 @@ See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgements
 
+- Background image from Unsplash
 - [Slidev](https://sli.dev/)
 - [Avoiding Scams and Scammers](https://www.fdic.gov/resources/consumers/consumer-news/2021-10.html)
 - [How to Avoid a Scam](https://consumer.ftc.gov/articles/how-avoid-scam)
