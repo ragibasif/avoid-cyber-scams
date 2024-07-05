@@ -41,7 +41,7 @@
 > Why did you undertake it?
 > You don't have to answer all the questions -- just the ones relevant to your project.
 
-[Demo on YouTube](https://youtu.be/ETqMe8PKmag)
+<a href="https://youtu.be/ETqMe8PKmag" target="_blank">Demo on YouTube</a>
 
 <details>
 <summary>Screenshots</summary>
