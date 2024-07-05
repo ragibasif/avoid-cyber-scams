@@ -34,6 +34,8 @@
 
 ## About
 
+Built for [CSPSC](https://cspsc-hacks.devpost.com/)
+
 > **[?]**
 > Provide general information about your project here.
 > What problem does it (intend to) solve?
